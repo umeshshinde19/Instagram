@@ -53,3 +53,8 @@ C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst 16
 [+] Username: Sami09.1
 [+] Password: Sami123
 ```
+
+### Donate!
+Support the authors: Umesh Shinde
+
+<noscript><a href="https://liberapay.com/umeshshinde19/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
